@@ -4,8 +4,10 @@
  * String : metinler
  * double : ondalıklı
  * boolean : true-false
- *  
  * 
+ * "\\" --> böyle bir ifade de sadece "\" bu görünür. İlk "\" görünmez!
+ * "\t" --> bir tab boşluk bırakır
+ * "\n" --> Bir alt satıra geçer
  */
 
 public class dataType {
