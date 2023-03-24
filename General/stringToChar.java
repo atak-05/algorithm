@@ -1,7 +1,3 @@
-
-// import java.util.Arrays;
-
-
 public class stringToChar {
     public static void main(String[] args) {
         String str ="Hello World";
